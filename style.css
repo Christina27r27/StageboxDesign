@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Black-Leather-Backgrounds.jpg");
+}
+
+html {
+    scroll-behavior: smooth;
+}
+}
+.mainTitle {
+    font-size: 60px;
+}
+
+.jumbotron{
+    margin:0px;
+    padding:30px;
+    background-color: rgb(15, 13, 13);
+    color:white;
+}
+
+.fa {
+    font-size: 70px;
+}
