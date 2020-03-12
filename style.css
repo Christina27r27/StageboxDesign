@@ -1,22 +1,44 @@
 body {
-    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Black-Leather-Backgrounds.jpg");
+   background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Black-Leather-Backgrounds.jpg")
 }
 
 html {
     scroll-behavior: smooth;
 }
-}
+
 .mainTitle {
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .jumbotron{
     margin:0px;
-    padding:30px;
-    background-color: rgb(15, 13, 13);
-    color:white;
+    padding:10px; 
+    color:black;
+    font-family: roboto;
 }
 
 .fa {
     font-size: 70px;
 }
+
+.box {
+    padding:40px;
+    margin:30px;
+    background: rgba(161, 61, 61, 0.4);
+    
+}
+
+.centerTitle {
+    font-size: 50px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    
+}
+
