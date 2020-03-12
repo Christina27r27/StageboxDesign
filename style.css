@@ -13,8 +13,9 @@ html {
 .jumbotron{
     margin:0px;
     padding:10px; 
-    color:black;
+    color:white;
     font-family: roboto;
+    background: rgba(0,0, 0, 0.4);
 }
 
 .fa {
@@ -41,4 +42,3 @@ hr {
     padding: 0;
     
 }
-
